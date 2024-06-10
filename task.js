@@ -1,2 +1,2 @@
-let name = ["makhdoom"];
+let name = ["makhdoom",25];
 
