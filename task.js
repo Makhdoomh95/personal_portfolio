@@ -1,1 +1,2 @@
-let arr = ["makhdoom"]
+let name = ["makhdoom"];
+
